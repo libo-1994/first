@@ -17,4 +17,6 @@ public interface ItemsDao {
      * @return
      */
     List<Items> findAll();
+	
+	List<Items> findById(id);
 }
