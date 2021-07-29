@@ -19,4 +19,6 @@ public interface ItemsDao {
     List<Items> findAll();
 	
 	List<Items> findAll();
+	
+	List<Items> findAll();
 }
